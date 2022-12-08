@@ -10,7 +10,7 @@ ajsonrpc==1.1.0
     # via platformio
 bottle==0.12.20
     # via platformio
-certifi==2020.12.5
+certifi==2022.12.7
     # via requests
 chardet==4.0.0
     # via requests
